@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+opendatasets
+matplotlib
+sklearn.model_selection
+joblib
+git
+
+#To move 1 level up: dir_path = "../folder_name"
+#To move 
